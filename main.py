@@ -41,8 +41,6 @@ Vítejte v evidenci osob, pro nápovědu vypište help, pro konec exit
             """print(customer.first_name, customer.last_name, customer.age)"""
 
         print(my_table)
-        # for i in range(0, len(customers)):
-        #     print(customers[i].first_name, customers[i].last_name, customers[i].age)
         print(" ")
 
 
